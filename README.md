@@ -1,4 +1,4 @@
-# SonarQube Scanning Examples
+# rukshar tamboli
 
 [SonarQube SonarScanner](https://docs.sonarqube.org/latest/analysis/scan/sonarscanner/) scanning and code coverage import examples for various languages and build tools.
 
